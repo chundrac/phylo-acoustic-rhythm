@@ -15,7 +15,7 @@ n.tree = sample(length(trees),1)
 
 tree <- trees[[n.tree]]
 
-data.df <- read.csv('../final_version/Data_Rhythm_Final_English.csv',sep=';')
+data.df <- read.csv('../Data_Rhythm_Final_English.csv',sep=';')
 
 tree$tip.label <- tolower(gsub(' |_','',tree$tip.label))
 
@@ -38,7 +38,7 @@ taxon.data <- na.omit(taxon.data) #find better way to deal with missing values
 taxon.data <- taxon.data[taxon.data$taxon %in% tree$tip.label,]
 tree <- keep.tip(tree, which(tree$tip.label %in% taxon.data$taxon))
 
-taxon.data$frequency <- exp(taxon.data$frequency)
+taxon.data$frequency <- 10^(taxon.data$frequency)
 taxon.data <- droplevels(taxon.data)
 
 phy.cov <- vcv.phylo(tree)

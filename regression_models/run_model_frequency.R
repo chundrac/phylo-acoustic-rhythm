@@ -48,7 +48,7 @@ phylo.cov <- phylo.cov[levels(taxon.data$taxon),levels(taxon.data$taxon)]
 
 #taxon.data$weight <- log(taxon.data$weight)
 
-taxon.data$frequency <- exp(taxon.data$frequency)
+taxon.data$frequency <- 10^(taxon.data$frequency)
 
 taxon.data$weight <- (taxon.data$weight - mean(taxon.data$weight))/sd(taxon.data$weight)
 
