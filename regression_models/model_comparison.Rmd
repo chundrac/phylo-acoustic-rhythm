@@ -1,0 +1,45 @@
+---
+title: "Untitled"
+author: "chundra"
+date: "5/16/2024"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(loo)
+```
+
+The models under comparison have the following order:
+
+1. Predictors included, distributional
+2. Predictors included, non-distributional
+3. Predictors not included, distributional
+4. Predictors not included, non-distributional
+
+```{r}
+loo.objects <- readRDS('model.comparisons.RDS')
+
+dominant.compare <- loo.objects[[1]]
+dominant.stack <- loo.objects[[2]]
+rhythm.compare <- loo.objects[[3]]
+rhythm.stack <- loo.objects[[4]]
+```
+
+# Dominant frequency
+
+In terms of stacking weight, we see that the two distributional models perform roughly equally. 
+
+```{r}
+dominant.stack
+```
+
+This means that including predictors such as weight of dominant frequency does not greeatly improve model predictions. This is a bit odd. Perhaps the random effects structure is too conservative?
+
+# Rhythm
+
+In terms of stacking weight, we see that the null distributional models greatly performs the distributional model with predictors. 
+
+```{r}
+rhythm.stack
+```
