@@ -26,19 +26,37 @@ rhythm.compare <- loo.objects[[3]]
 rhythm.stack <- loo.objects[[4]]
 ```
 
-# Dominant frequency
+# Raw ELPD values
 
-In terms of stacking weight, we see that the two distributional models perform roughly equally. 
+## Dominant frequency
+
+```{r}
+dominant.compare
+```
+
+The distributional model with predictors included has the highest ELPD value, but it is not substantially higher than the null distributional model (e.g., more than 2 std. errors higher).
+
+## Rhythm
+
+```{r}
+rhythm.compare
+```
+
+The null distributional model has the highest ELPD value, but it is not substantially higher than the distributional model with predictors (e.g., more than 2 std. errors higher).
+
+# Stack
+
+## Dominant frequency
+
+In terms of stacking weight, we see that the distributional models with predictors has the majority of the stacking weight, but the null distributional model still has a substantial amount of stacking weight. 
 
 ```{r}
 dominant.stack
 ```
 
-This means that including predictors such as weight of dominant frequency does not greeatly improve model predictions. This is a bit odd. Perhaps the random effects structure is too conservative?
+## Rhythm
 
-# Rhythm
-
-In terms of stacking weight, we see that the null distributional models greatly performs the distributional model with predictors. 
+In terms of stacking weight, we see that the null distributional model outperforms the distributional model with predictors but the full distributional model has a not insignificant portion of the stacking weight. 
 
 ```{r}
 rhythm.stack
