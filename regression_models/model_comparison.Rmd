@@ -2,12 +2,13 @@
 title: "Untitled"
 author: "chundra"
 date: "5/16/2024"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 require(loo)
+require(knitr)
 ```
 
 The models under comparison have the following order:
@@ -31,7 +32,7 @@ rhythm.stack <- loo.objects[[4]]
 ## Dominant frequency
 
 ```{r}
-dominant.compare
+kable(dominant.compare)
 ```
 
 The distributional model with predictors included has the highest ELPD value, but it is not substantially higher than the null distributional model (e.g., more than 2 std. errors higher).
@@ -39,7 +40,7 @@ The distributional model with predictors included has the highest ELPD value, bu
 ## Rhythm
 
 ```{r}
-rhythm.compare
+kable(rhythm.compare)
 ```
 
 The null distributional model has the highest ELPD value, but it is not substantially higher than the distributional model with predictors (e.g., more than 2 std. errors higher).
