@@ -1,5 +1,7 @@
 # phylo-acoustic-rhythm
-github repo for project on phylogeny of rhythm
+This repository contains code associated with the manuscript "Animal acoustic communication maintains a universal optimum rhythm".
+
+Analyses were run on the University of Zurich's Science Cluster using the Slurm workload management system and the Rstan anaconda environment (https://anaconda.org/conda-forge/r-rstan).
 
 To run everything:
 
