@@ -1,0 +1,527 @@
+Rhythm_vocal_subset
+Group,Group_Simple,Order,Common_Name,Dominant_Frequency,Log_Dominant_Frequency,Scientific_Name,Scientific_Name_.Replacement_Species.,Frequency,Log_Frequency,Weight,Log_Weight,Environement,Mastication,Vocal_Repertoire
+1,Amphibia,Other,Anura,Ameerega Berohoka,4112.841797,3.614142004,Ameerega berohoka,Ameeregahahneli,3.80743311,0.58063228,0.005,-2.301029996,Wetland,3
+2,Amphibia,Other,Anura,Ameerega Berohoka,4048.242188,3.607266486,Ameerega berohoka,Ameeregahahneli,2.26391327,0.35485979,0.005,-2.301029996,Wetland,3
+3,Amphibia,Other,Anura,Ameerega Berohoka,4005.175781,3.602621581,Ameerega berohoka,Ameeregahahneli,2.98725147,0.47527178,0.005,-2.301029996,Wetland,3
+4,Amphibia,Other,Anura,Ameerega Berohoka,4155.908203,3.618665946,Ameerega berohoka,Ameeregahahneli,2.69226177,0.43011728,0.005,-2.301029996,Wetland,3
+5,Amphibia,Other,Anura,Ameerega Berohoka,3940.576172,3.595559727,Ameerega berohoka,Ameeregahahneli,2.51196905,0.40001428,0.005,-2.301029996,Wetland,3
+6,Amphibia,Other,Anura,Common Frog,,,Rana temporaria,Rana temporaria,2.51196905,0.40001429,0.0227,-1.64397414,Shore,5
+7,Amphibia,Other,Anura,Common Frog,,,Rana temporaria,Rana temporaria,2.51196905,0.40001429,0.0227,-1.64397414,Shore,5
+8,Amphibia,Other,Anura,Common Spadefoot Toad,602.9296875,2.780266669,Pelobates fuscus,Pelobates fuscus,4.08070577,0.61073528,0.075,-1.12493874,Shore,7
+9,Amphibia,Other,Anura,Common Spadefoot Toad,602.9296875,2.780266669,Pelobates fuscus,Pelobates fuscus,3.5524607,0.55052928,0.075,-1.12493874,Shore,7
+10,Amphibia,Other,Anura,Common Spadefoot Toad,516.796875,2.713319879,Pelobates fuscus,Pelobates fuscus,5.2011069,0.71609578,0.075,-1.12493874,Shore,7
+11,Aves,Aves,Passeriformes,Blue Backed Manakin,2325.585938,3.366532393,Chiroxiphia pareola,Lepidothrix coronata,4.22461154,0.62578678,0.0275,-1.56066731,Semi-Closed,6
+12,Aves,Aves,Passeriformes,Blue Backed Manakin,2217.919922,3.345945862,Chiroxiphia pareola,Lepidothrix coronata,5.38452354,0.73114728,0.0275,-1.56066731,Semi-Closed,6
+13,Aves,Aves,Passeriformes,Blue Backed Manakin,2304.052734,3.362492415,Chiroxiphia pareola,Lepidothrix coronata,4.37359215,0.64083828,0.0275,-1.56066731,Semi-Closed,6
+14,Aves,Aves,Passeriformes,Blue Backed Manakin,2829.45784,3.451703227,Chiroxiphia pareola,Lepidothrix coronata,5.02393811,0.70104428,0.0275,-1.56066731,Semi-Closed,6
+15,Aves,Aves,Passeriformes,Blue Backed Manakin,2605.517578,3.415894007,Chiroxiphia pareola,Lepidothrix coronata,4.22461154,0.62578678,0.0275,-1.56066731,Semi-Closed,6
+16,Aves,Aves,Leptosomiformes,Cuckoo Roller,1808.789063,3.257387923,Leptosomus discolor,Merops viridis,1.44274736,0.15919029,0.231,-0.63638802,Closed,10
+17,Aves,Aves,Leptosomiformes,Cuckoo Roller,1894.921875,3.277591309,Leptosomus discolor,Merops viridis,1.25598453,0.09898429,0.231,-0.63638802,Closed,10
+18,Aves,Aves,Leptosomiformes,Cuckoo Roller,2067.1875,3.31537987,Leptosomus discolor,Merops viridis,1.39360209,0.14413879,0.231,-0.63638802,Closed,10
+19,Aves,Aves,Leptosomiformes,Cuckoo Roller,2067.1875,3.31537987,Leptosomus discolor,Merops viridis,1.39360209,0.14413879,0.231,-0.63638802,Closed,10
+20,Aves,Aves,Leptosomiformes,Cuckoo Roller,1808.789063,3.257387923,Leptosomus discolor,Merops viridis,1.09339804,0.03877829,0.231,-0.63638802,Closed,10
+21,Aves,Aves,Passeriformes,Eastern Crowned Warbler,3617.578125,3.558417919,Phylloscopus coronatus,Phylloscopustrochilus,2.88549472,0.46022028,0.00925,-2.03385827,Closed,8
+22,Aves,Aves,Passeriformes,Eastern Crowned Warbler,3100.78125,3.491471129,Phylloscopus coronatus,Phylloscopustrochilus,2.88549472,0.46022028,0.00925,-2.03385827,Closed,8
+23,Aves,Aves,Passeriformes,Eastern Crowned Warbler,3100.78125,3.491471129,Phylloscopus coronatus,Phylloscopustrochilus,2.69226177,0.43011728,0.00925,-2.03385827,Closed,8
+24,Aves,Aves,Passeriformes,Eastern Crowned Warbler,2756.25,3.440318607,Phylloscopus coronatus,Phylloscopustrochilus,5.2011069,0.71609578,0.00925,-2.03385827,Closed,8
+25,Aves,Aves,Passeriformes,Eastern Crowned Warbler,3014.648438,3.479236673,Phylloscopus coronatus,Phylloscopustrochilus,2.42640217,0.38496279,0.00925,-2.03385827,Closed,8
+26,Aves,Aves,Casuariiformes,Emu,,,Dromaius novaehollandiae,Dromaius novaehollandiae,7.10492141,0.85155928,42.5,1.62838893,Closed,5
+27,Aves,Aves,Casuariiformes,Emu,,,Dromaius novaehollandiae,Dromaius novaehollandiae,0.85786271,-0.06658221,42.5,1.62838893,Closed,5
+28,Aves,Aves,Casuariiformes,Emu,,,Dromaius novaehollandiae,Dromaius novaehollandiae,2.78720418,0.44516878,42.5,1.62838893,Closed,5
+29,Aves,Aves,Casuariiformes,Emu,,,Dromaius novaehollandiae,Dromaius novaehollandiae,1.02017644,0.00867529,42.5,1.62838893,Closed,5
+30,Aves,Aves,Casuariiformes,Emu,,,Dromaius novaehollandiae,Dromaius novaehollandiae,0.95185828,-0.02142771,42.5,1.62838893,Closed,5
+31,Aves,Aves,Charadriiformes,Eurasian Oystercatcher,2928.515625,3.466647546,Haematopus ostralegus,Haematopus ostralegus,5.57440835,0.74619878,1.245,0.09516935,Shore,5
+32,Aves,Aves,Charadriiformes,Eurasian Oystercatcher,3122.314453,3.494476639,Haematopus ostralegus,Haematopus ostralegus,avr.75,0.67094128,1.245,0.09516935,Shore,5
+33,Aves,Aves,Charadriiformes,Eurasian Oystercatcher,3036.181641,3.48232775,Haematopus ostralegus,Haematopus ostralegus,4.52782654,0.65588978,1.245,0.09516935,Shore,5
+34,Aves,Aves,Charadriiformes,Eurasian Oystercatcher,2777.783203,3.443698347,Haematopus ostralegus,Haematopus ostralegus,6.8629017,0.83650778,1.245,0.09516935,Shore,5
+35,Aves,Aves,Charadriiformes,Eurasian Oystercatcher,2648.583984,3.423013749,Haematopus ostralegus,Haematopus ostralegus,6.62912607,0.82145628,1.245,0.09516935,Shore,5
+36,Aves,Aves,Charadriiformes,Eurasian Stone Curlew,2627.050781,3.419468468,Burhinus oedicnemus,Burhinus oedicnemus,1.171875,0.06888129,0.4365,-0.36001575,Open,11
+37,Aves,Aves,Charadriiformes,Eurasian Stone Curlew,2734.716797,3.436912358,Burhinus oedicnemus,Burhinus oedicnemus,1.44274736,0.15919029,0.4365,-0.36001575,Open,11
+38,Aves,Aves,Charadriiformes,Eurasian Stone Curlew,2691.650391,3.43001865,Burhinus oedicnemus,Burhinus oedicnemus,1.54629833,0.18929329,0.4365,-0.36001575,Open,11
+39,Aves,Aves,Charadriiformes,Eurasian Stone Curlew,2260.986328,3.354297936,Burhinus oedicnemus,Burhinus oedicnemus,1.54629833,0.18929329,0.4365,-0.36001575,Open,11
+40,Aves,Aves,Charadriiformes,Eurasian Stone Curlew,2067.1875,3.31537987,Burhinus oedicnemus,Burhinus oedicnemus,1.54629833,0.18929329,0.4365,-0.36001575,Open,11
+41,Aves,Aves,Accipitriformes,Golden Eagle,1291.992188,3.111259888,Aquila chrysaetos,Aquilaheliaca,3.43145085,0.53547778,4.755,0.67715052,Open,11
+42,Aves,Aves,Accipitriformes,Golden Eagle,1205.859375,3.081296664,Aquila chrysaetos,Aquilaheliaca,3.67773796,0.56558078,4.755,0.67715052,Open,11
+43,Aves,Aves,Accipitriformes,Golden Eagle,1335.058594,3.125500327,Aquila chrysaetos,Aquilaheliaca,3.20165685,0.50537478,4.755,0.67715052,Open,11
+44,Aves,Aves,Accipitriformes,Golden Eagle,1313.525391,3.118438472,Aquila chrysaetos,Aquilaheliaca,3.20165685,0.50537478,4.755,0.67715052,Open,11
+45,Aves,Aves,Accipitriformes,Golden Eagle,1894.921875,3.277591309,Aquila chrysaetos,Aquilaheliaca,2.42640217,0.38496279,4.755,0.67715052,Open,11
+46,Aves,Aves,Musophagiformes,Great Blue Turacoo,904.3945313,2.956357928,Corythaeola cristata,Corythaeola cristata,9.375,0.97197128,1.0265,0.01135895,Closed,7
+47,Aves,Aves,Musophagiformes,Great Blue Turacoo,882.8613281,2.945892494,Corythaeola cristata,Corythaeola cristata,9.05565308,0.95691978,1.0265,0.01135895,Closed,7
+48,Aves,Aves,Musophagiformes,Great Blue Turacoo,968.9941406,2.986321151,Corythaeola cristata,Corythaeola cristata,8.16141153,0.91176528,1.0265,0.01135895,Closed,7
+49,Aves,Aves,Musophagiformes,Great Blue Turacoo,882.8613281,2.945892494,Corythaeola cristata,Corythaeola cristata,7.35547592,0.86661078,1.0265,0.01135895,Closed,7
+50,Aves,Aves,Musophagiformes,Great Blue Turacoo,882.8613281,2.945892494,Corythaeola cristata,Corythaeola cristata,7.10492141,0.85155928,1.0265,0.01135895,Closed,7
+51,Aves,Aves,Passeriformes,House Sparrow,3940.576172,3.595559727,Passer domesticus,Passer domesticus,2.26391327,0.35485979,0.01966667,-1.70626924,Semi-Closed,13
+52,Aves,Aves,Passeriformes,House Sparrow,3596.044922,3.555825108,Passer domesticus,Passer domesticus,1.60082843,0.20434479,0.01966667,-1.70626924,Semi-Closed,13
+53,Aves,Aves,Passeriformes,House Sparrow,4048.242188,3.607266486,Passer domesticus,Passer domesticus,2.18679607,0.33980829,0.01966667,-1.70626924,Semi-Closed,13
+54,Aves,Aves,Passeriformes,House Sparrow,3660.644531,3.563557559,Passer domesticus,Passer domesticus,1.77623035,0.24949929,0.01966667,-1.70626924,Semi-Closed,13
+55,Aves,Aves,Passeriformes,House Sparrow,3962.109375,3.59792646,Passer domesticus,Passer domesticus,1.25598453,0.09898429,0.01966667,-1.70626924,Semi-Closed,13
+56,Aves,Aves,Piciformes,Iberian Green Woodpecker,2304.052734,3.362492415,Picus sharpei,Picus canus,7.61486622,0.88166228,0.194,-0.71219827,Semi-Closed,10
+57,Aves,Aves,Piciformes,Iberian Green Woodpecker,2454.785156,3.390013488,Picus sharpei,Picus canus,7.88340389,0.89671378,0.194,-0.71219827,Semi-Closed,10
+58,Aves,Aves,Piciformes,Iberian Green Woodpecker,2390.185547,3.378431616,Picus sharpei,Picus canus,8.7471843,0.94186828,0.194,-0.71219827,Semi-Closed,10
+59,Aves,Aves,Piciformes,Iberian Green Woodpecker,2153.320313,3.333108637,Picus sharpei,Picus canus,6.4033137,0.80640478,0.194,-0.71219827,Semi-Closed,10
+60,Aves,Aves,Piciformes,Iberian Green Woodpecker,2260.986328,3.354297936,Picus sharpei,Picus canus,6.18519333,0.79135328,0.194,-0.71219827,Semi-Closed,10
+61,Aves,Aves,Coraciiformes,Laughing Kookaburra,2260.986328,3.354297936,Dacelo novaeguineae,Dacelo novaeguineae,8.7471843,0.94186828,0.3295,-0.48214458,Closed,8
+62,Aves,Aves,Coraciiformes,Laughing Kookaburra,1119.726563,3.049111981,Dacelo novaeguineae,Dacelo novaeguineae,10.7690471,1.03217728,0.3295,-0.48214458,Closed,8
+63,Aves,Aves,Coraciiformes,Laughing Kookaburra,1744.189453,3.241593656,Dacelo novaeguineae,Dacelo novaeguineae,16.3228231,1.21279527,0.3295,-0.48214458,Closed,8
+64,Aves,Aves,Coraciiformes,Laughing Kookaburra,1981.054688,3.296896465,Dacelo novaeguineae,Dacelo novaeguineae,5.57440835,0.74619878,0.3295,-0.48214458,Closed,8
+65,Aves,Aves,Coraciiformes,Laughing Kookaburra,1571.923828,3.196431497,Dacelo novaeguineae,Dacelo novaeguineae,10.4022138,1.01712578,0.3295,-0.48214458,Closed,8
+66,Aves,Aves,Apodiformes,Lesser Violetar,7579.6875,3.879651301,Colibri cyanotus,Colibri cyanotus,1.60082843,0.20434479,0.00525,-2.2798407,Semi-Closed,6
+67,Aves,Aves,Apodiformes,Lesser Violetar,7041.357422,3.84765639,Colibri cyanotus,Colibri cyanotus,6.18519333,0.79135328,0.00525,-2.2798407,Semi-Closed,6
+68,Aves,Aves,Apodiformes,Lesser Violetar,6718.359375,3.827263231,Colibri cyanotus,Colibri cyanotus,2.60055345,0.41506578,0.00525,-2.2798407,Semi-Closed,6
+69,Aves,Aves,Apodiformes,Lesser Violetar,6158.496094,3.78947467,Colibri cyanotus,Colibri cyanotus,2.34375,0.36991129,0.00525,-2.2798407,Semi-Closed,6
+70,Aves,Aves,Apodiformes,Lesser Violetar,7235.15625,3.859447915,Colibri cyanotus,Colibri cyanotus,2.26391327,0.35485979,0.00525,-2.2798407,Semi-Closed,6
+71,Aves,Aves,Coraciiformes,Lilac Breasted Roller,2756.25,3.440318607,Coracias caudatus,Eurystomus gularis,3.09259667,0.49032328,0.111,-0.95467702,Semi-Closed,4
+72,Aves,Aves,Coraciiformes,Lilac Breasted Roller,2928.515625,3.466647546,Coracias caudatus,Eurystomus gularis,5.57440835,0.74619878,0.111,-0.95467702,Semi-Closed,4
+73,Aves,Aves,Coraciiformes,Lilac Breasted Roller,2672.87624,3.42697885,Coracias caudatus,Eurystomus gularis,2.60055345,0.41506578,0.111,-0.95467702,Semi-Closed,4
+74,Aves,Aves,Coraciiformes,Lilac Breasted Roller,3186.914063,3.503370353,Coracias caudatus,Eurystomus gularis,2.60055345,0.41506578,0.111,-0.95467702,Semi-Closed,4
+75,Aves,Aves,Coraciiformes,Lilac Breasted Roller,2869.76258,3.457845968,Coracias caudatus,Eurystomus gularis,3.67773796,0.56558078,0.111,-0.95467702,Semi-Closed,4
+76,Aves,Aves,Sphenisciformes,Magellanic Penguin,882.8613281,2.945892494,Spheniscus magellanicus,Spheniscus magellanicus,2.11230577,0.32475679,04.juin,0.66275783,Shore,6
+77,Aves,Aves,Sphenisciformes,Magellanic Penguin,1464.257813,3.16561755,Spheniscus magellanicus,Spheniscus magellanicus,2.18679607,0.33980829,04.juin,0.66275783,Shore,6
+78,Aves,Aves,Sphenisciformes,Magellanic Penguin,1658.056641,3.219599362,Spheniscus magellanicus,Spheniscus magellanicus,2.69226177,0.43011728,04.juin,0.66275783,Shore,6
+79,Aves,Aves,Sphenisciformes,Magellanic Penguin,1593.457031,3.202340357,Spheniscus magellanicus,Spheniscus magellanicus,2.11230577,0.32475679,04.juin,0.66275783,Shore,6
+80,Aves,Aves,Sphenisciformes,Magellanic Penguin,1550.390625,3.190441134,Spheniscus magellanicus,Spheniscus magellanicus,3.94170195,0.59568378,04.juin,0.66275783,Shore,6
+81,Aves,Aves,Otidiformes,Northen Black Korhaan,1593.457031,3.202340357,Afrotis afraoides,Ardeotis kori,2.98725147,0.47527178,0.7,-0.15490196,Open,5
+82,Aves,Aves,Otidiformes,Northen Black Korhaan,2411.71875,3.38232666,Afrotis afraoides,Ardeotis kori,2.88549472,0.46022028,0.7,-0.15490196,Open,5
+83,Aves,Aves,Otidiformes,Northen Black Korhaan,1291.992188,3.111259888,Afrotis afraoides,Ardeotis kori,2.69226177,0.43011728,0.7,-0.15490196,Open,5
+84,Aves,Aves,Otidiformes,Northen Black Korhaan,2096.47518,3.321489725,Afrotis afraoides,Ardeotis kori,2.69226177,0.43011728,0.7,-0.15490196,Open,5
+85,Aves,Aves,Otidiformes,Northen Black Korhaan,2540.917969,3.404990644,Afrotis afraoides,Ardeotis kori,2.98725147,0.47527178,0.7,-0.15490196,Open,5
+86,Aves,Aves,Procellariiformes,Northern Fulmar,1464.257813,3.16561755,Fulmarus glacialis,Daption capense,4.22461154,0.62578678,0.7675,-0.11492162,Shore,6
+87,Aves,Aves,Procellariiformes,Northern Fulmar,1205.859375,3.081296664,Fulmarus glacialis,Daption capense,8.16141153,0.91176528,0.7675,-0.11492162,Shore,6
+88,Aves,Aves,Procellariiformes,Northern Fulmar,1033.59375,3.014349875,Fulmarus glacialis,Daption capense,10.0478762,1.00207428,0.7675,-0.11492162,Shore,6
+89,Aves,Aves,Procellariiformes,Northern Fulmar,1119.726563,3.049111981,Fulmarus glacialis,Daption capense,10.0478762,1.00207428,0.7675,-0.11492162,Shore,6
+90,Aves,Aves,Procellariiformes,Northern Fulmar,1205.859375,3.081296664,Fulmarus glacialis,Daption capense,7.61486622,0.88166228,0.7675,-0.11492162,Shore,6
+91,Aves,Aves,Falconiformes,Peregrine Falcon,2347.119141,3.370535135,Falco peregrinus,Falco peregrinus,3.5524607,0.55052928,1.025,0.01072387,Shore,4
+92,Aves,Aves,Falconiformes,Peregrine Falcon,2519.384766,3.401294499,Falco peregrinus,Falco peregrinus,1.97085097,0.29465379,1.025,0.01072387,Shore,4
+93,Aves,Aves,Falconiformes,Peregrine Falcon,2110.253906,3.324334713,Falco peregrinus,Falco peregrinus,3.20165685,0.50537478,1.025,0.01072387,Shore,4
+94,Aves,Aves,Falconiformes,Peregrine Falcon,2131.787109,3.328743832,Falco peregrinus,Falco peregrinus,3.94170195,0.59568378,1.025,0.01072387,Shore,4
+95,Aves,Aves,Falconiformes,Peregrine Falcon,2217.919922,3.345945862,Falco peregrinus,Falco peregrinus,4.37359215,0.64083828,1.025,0.01072387,Shore,4
+96,Aves,Aves,Falconiformes,Peregrine Falcon,,,Falco peregrinus,Falco peregrinus,1.171875,0.06888129,1.025,0.01072387,Shore,4
+97,Aves,Aves,Falconiformes,Peregrine Falcon,,,Falco peregrinus,Falco peregrinus,1.54629833,0.18929329,1.025,0.01072387,Shore,4
+98,Aves,Aves,Falconiformes,Peregrine Falcon,,,Falco peregrinus,Falco peregrinus,1.13195664,0.05382979,1.025,0.01072387,Shore,4
+99,Aves,Aves,Falconiformes,Peregrine Falcon,,,Falco peregrinus,Falco peregrinus,0.85786271,-0.06658221,1.025,0.01072387,Shore,4
+100,Aves,Aves,Falconiformes,Peregrine Falcon,,,Falco peregrinus,Falco peregrinus,1.171875,0.06888129,1.025,0.01072387,Shore,4
+101,Aves,Aves,Charadriiformes,Polar Skua,1604.223633,3.20526491,Stercorarius maccormicki,Stercorariusparasiticus,3.5524607,0.55052928,0.75,-0.12493874,Shore,5
+102,Aves,Aves,Charadriiformes,Polar Skua,1991.821289,3.29925037,Stercorarius maccormicki,Stercorariusparasiticus,3.94170195,0.59568378,0.75,-0.12493874,Shore,5
+103,Aves,Aves,Charadriiformes,Polar Skua,2190.75486,3.340593784,Stercorarius maccormicki,Stercorariusparasiticus,3.43145085,0.53547778,0.75,-0.12493874,Shore,5
+104,Aves,Aves,Charadriiformes,Polar Skua,2142.553711,3.330931718,Stercorarius maccormicki,Stercorariusparasiticus,3.67773796,0.56558078,0.75,-0.12493874,Shore,5
+105,Aves,Aves,Charadriiformes,Polar Skua,,,Stercorarius maccormicki,Stercorariusparasiticus,3.31456304,0.52042628,0.75,-0.12493874,Shore,5
+106,Aves,Aves,Charadriiformes,Polar Skua,,,Stercorarius maccormicki,Stercorariusparasiticus,3.20165685,0.50537478,0.75,-0.12493874,Shore,5
+107,Aves,Aves,Charadriiformes,Polar Skua,,,Stercorarius maccormicki,Stercorariusparasiticus,4.85280433,0.68599278,0.75,-0.12493874,Shore,5
+108,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,1.77623035,0.24949929,0.0105,-1.9788107,Closed,8
+109,Aves,Aves,Passeriformes,Red Breasted Nuthatch,2842.382813,3.453682568,Sitta canadensis,Sittaeuropaea,1.65728152,0.21939629,0.0105,-1.9788107,Closed,8
+110,Aves,Aves,Passeriformes,Red Breasted Nuthatch,2519.384766,3.401294499,Sitta canadensis,Sittaeuropaea,1.44274736,0.15919029,0.0105,-1.9788107,Closed,8
+111,Aves,Aves,Passeriformes,Red Breasted Nuthatch,2648.583984,3.423013749,Sitta canadensis,Sittaeuropaea,1.77623035,0.24949929,0.0105,-1.9788107,Closed,8
+112,Aves,Aves,Passeriformes,Red Breasted Nuthatch,2648.583984,3.423013749,Sitta canadensis,Sittaeuropaea,1.77623035,0.24949929,0.0105,-1.9788107,Closed,8
+113,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,4.37359215,0.64083828,0.0105,-1.9788107,Closed,8
+114,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,5.2011069,0.71609578,0.0105,-1.9788107,Closed,8
+115,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,3.80743311,0.58063228,0.0105,-1.9788107,Closed,8
+116,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,3.31456304,0.52042628,0.0105,-1.9788107,Closed,8
+117,Aves,Aves,Passeriformes,Red Breasted Nuthatch,,,Sitta canadensis,Sittaeuropaea,3.5524607,0.55052928,0.0105,-1.9788107,Closed,8
+118,Aves,Aves,Galiiformes,Red Legged Partridge,3811.376953,3.581081904,Alectoris rufa,Alectoris chukar,2.98725147,0.47527178,0.469,-0.32882716,Open,14
+119,Aves,Aves,Galiiformes,Red Legged Partridge,2368.652344,3.374501322,Alectoris rufa,Alectoris chukar,2.98725147,0.47527178,0.469,-0.32882716,Open,14
+120,Aves,Aves,Galiiformes,Red Legged Partridge,3165.380859,3.500425972,Alectoris rufa,Alectoris chukar,2.51196905,0.40001429,0.469,-0.32882716,Open,14
+121,Aves,Aves,Galiiformes,Red Legged Partridge,3488.378906,3.542623652,Alectoris rufa,Alectoris chukar,2.69226177,0.43011728,0.469,-0.32882716,Open,14
+122,Aves,Aves,Galiiformes,Red Legged Partridge,3746.777344,3.573657885,Alectoris rufa,Alectoris chukar,2.34375,0.36991129,0.469,-0.32882716,Open,14
+123,Aves,Aves,Galiiformes,Red Legged Partridge,,,Alectoris rufa,Alectoris chukar,2.98725147,0.47527178,0.469,-0.32882716,Open,14
+124,Aves,Aves,Galiiformes,Red Legged Partridge,,,Alectoris rufa,Alectoris chukar,2.98725147,0.47527178,0.469,-0.32882716,Open,14
+125,Aves,Aves,Galiiformes,Red Legged Partridge,,,Alectoris rufa,Alectoris chukar,2.51196905,0.40001429,0.469,-0.32882716,Open,14
+126,Aves,Aves,Galiiformes,Red Legged Partridge,,,Alectoris rufa,Alectoris chukar,2.69226177,0.43011728,0.469,-0.32882716,Open,14
+127,Aves,Aves,Galiiformes,Red Legged Partridge,,,Alectoris rufa,Alectoris chukar,2.34375,0.36991129,0.469,-0.32882716,Open,14
+128,Aves,Aves,Cariamiformes,Red Legged Seriema,1550.390625,3.190441134,Cariama cristata,Cariama cristata,2.88549472,0.46022028,3,0.47712126,Semi-Closed,3
+129,Aves,Aves,Cariamiformes,Red Legged Seriema,1636.523438,3.21392223,Cariama cristata,Cariama cristata,2.60055345,0.41506578,3,0.47712126,Semi-Closed,3
+130,Aves,Aves,Cariamiformes,Red Legged Seriema,1485.791016,3.171957728,Cariama cristata,Cariama cristata,2.78720418,0.44516878,3,0.47712126,Semi-Closed,3
+131,Aves,Aves,Cariamiformes,Red Legged Seriema,1507.324219,3.178206677,Cariama cristata,Cariama cristata,2.51196905,0.40001429,3,0.47712126,Semi-Closed,3
+132,Aves,Aves,Cariamiformes,Red Legged Seriema,1679.589844,3.22520324,Cariama cristata,Cariama cristata,2.69226177,0.43011728,3,0.47712126,Semi-Closed,3
+133,Aves,Aves,Podecipediformes,Red Necked Grebe,2368.652344,3.374501322,Podiceps grisegena,Podicepscristatus,3.43145085,0.53547778,0.8655,-0.06273293,Shore,9
+134,Aves,Aves,Podecipediformes,Red Necked Grebe,3122.314453,3.494476639,Podiceps grisegena,Podicepscristatus,4.37359215,0.64083828,0.8655,-0.06273293,Shore,9
+135,Aves,Aves,Podecipediformes,Red Necked Grebe,2842.382813,3.453682568,Podiceps grisegena,Podicepscristatus,4.22461154,0.62578678,0.8655,-0.06273293,Shore,9
+136,Aves,Aves,Podecipediformes,Red Necked Grebe,2476.318359,3.393806477,Podiceps grisegena,Podicepscristatus,4.22461154,0.62578678,0.8655,-0.06273293,Shore,9
+137,Aves,Aves,Podecipediformes,Red Necked Grebe,2239.453125,3.350141976,Podiceps grisegena,Podicepscristatus,3.31456304,0.52042628,0.8655,-0.06273293,Shore,9
+138,Aves,Aves,Gaviiformes,Red Throated Loon,1485.791016,3.171957728,Gavia stellata,Gavia stellata,4.85280433,0.68599278,1.724,0.23653726,Shore,9
+139,Aves,Aves,Gaviiformes,Red Throated Loon,1442.724609,3.15918344,Gavia stellata,Gavia stellata,4.85280433,0.68599278,1.724,0.23653726,Shore,9
+140,Aves,Aves,Gaviiformes,Red Throated Loon,1550.390625,3.190441134,Gavia stellata,Gavia stellata,5.02393811,0.70104428,1.724,0.23653726,Shore,9
+141,Aves,Aves,Gaviiformes,Red Throated Loon,1356.591797,3.132449187,Gavia stellata,Gavia stellata,5.38452354,0.73114728,1.724,0.23653726,Shore,9
+142,Aves,Aves,Gaviiformes,Red Throated Loon,1421.191406,3.152652573,Gavia stellata,Gavia stellata,5.2011069,0.71609578,1.724,0.23653726,Shore,9
+143,Aves,Aves,Passeriformes,Rifleman,10895.80078,4.037259154,Acanthisitta chloris,Acanthisitta chloris,7.61486622,0.88166228,0.0065,-2.18708664,Semi-Closed,9
+144,Aves,Aves,Passeriformes,Rifleman,8656.347656,3.93733469,Acanthisitta chloris,Acanthisitta chloris,avr.75,0.67094128,0.0065,-2.18708664,Semi-Closed,9
+145,Aves,Aves,Passeriformes,Rifleman,8354.882813,3.921940363,Acanthisitta chloris,Acanthisitta chloris,9.375,0.97197128,0.0065,-2.18708664,Semi-Closed,9
+146,Aves,Aves,Passeriformes,Rifleman,11541.79688,4.062273427,Acanthisitta chloris,Acanthisitta chloris,8.16141153,0.91176528,0.0065,-2.18708664,Semi-Closed,9
+147,Aves,Aves,Passeriformes,Rifleman,8893.212891,3.949058689,Acanthisitta chloris,Acanthisitta chloris,5.97450294,0.77630178,0.0065,-2.18708664,Semi-Closed,9
+148,Aves,Aves,Passeriformes,Scarlet Tanager,2713.183594,3.433479182,Piranga olivacea,Piranga olivacea,1.90371655,0.27960229,0.03075,-1.51215488,Closed,7
+149,Aves,Aves,Passeriformes,Scarlet Tanager,3186.914063,3.503370353,Piranga olivacea,Piranga olivacea,1.90371655,0.27960229,0.03075,-1.51215488,Closed,7
+150,Aves,Aves,Passeriformes,Scarlet Tanager,3079.248047,3.488444675,Piranga olivacea,Piranga olivacea,1.77623035,0.24949929,0.03075,-1.51215488,Closed,7
+151,Aves,Aves,Passeriformes,Scarlet Tanager,2562.451172,3.408655599,Piranga olivacea,Piranga olivacea,1.77623035,0.24949929,0.03075,-1.51215488,Closed,7
+152,Aves,Aves,Passeriformes,Scarlet Tanager,2691.650391,3.43001865,Piranga olivacea,Piranga olivacea,1.83886898,0.26455079,0.03075,-1.51215488,Closed,7
+153,Aves,Aves,Columbiformes,Stock Dove,409.1308594,2.611862238,Columba oenas,Columba livia,1.05615289,0.02372679,0.4605,-0.33677037,Semi-Closed,3
+154,Aves,Aves,Columbiformes,Stock Dove,473.7304688,2.675531318,Columba oenas,Columba livia,1.02017644,0.00867529,0.4605,-0.33677037,Semi-Closed,3
+155,Aves,Aves,Columbiformes,Stock Dove,344.53125,2.53722862,Columba oenas,Columba livia,1.05615289,0.02372679,0.4605,-0.33677037,Semi-Closed,3
+156,Aves,Aves,Columbiformes,Stock Dove,366.0644531,2.563557559,Columba oenas,Columba livia,1.13195664,0.05382979,0.4605,-0.33677037,Semi-Closed,3
+157,Aves,Aves,Columbiformes,Stock Dove,430.6640625,2.634138633,Columba oenas,Columba livia,1.13195664,0.05382979,0.4605,-0.33677037,Semi-Closed,3
+158,Aves,Aves,Passeriformes,Townsends Solitaire,3165.380859,3.500425972,Myadestes townsendi,Myadestesmyadestinus,4.85280433,0.68599278,0.0325,-1.48811664,Closed,5
+159,Aves,Aves,Passeriformes,Townsends Solitaire,3057.714844,3.485396982,Myadestes townsendi,Myadestesmyadestinus,5.97450294,0.77630178,0.0325,-1.48811664,Closed,5
+160,Aves,Aves,Passeriformes,Townsends Solitaire,3875.976563,3.588381142,Myadestes townsendi,Myadestesmyadestinus,4.08070577,0.61073528,0.0325,-1.48811664,Closed,5
+161,Aves,Aves,Passeriformes,Townsends Solitaire,4608.105469,3.663522411,Myadestes townsendi,Myadestesmyadestinus,4.85280433,0.68599278,0.0325,-1.48811664,Closed,5
+162,Aves,Aves,Passeriformes,Townsends Solitaire,3014.648438,3.479236673,Myadestes townsendi,Myadestesmyadestinus,4.37359215,0.64083828,0.0325,-1.48811664,Closed,5
+163,Aves,Aves,Charadriiformes,Wattled Jacana,3531.445313,3.547952485,Jacana jacana,Jacana jacana,3.09259667,0.49032328,0.05205,-1.28357927,Shore,5
+164,Aves,Aves,Charadriiformes,Wattled Jacana,3079.248047,3.488444675,Jacana jacana,Jacana jacana,4.85280433,0.68599278,0.05205,-1.28357927,Shore,5
+165,Aves,Aves,Charadriiformes,Wattled Jacana,2971.582031,3.472987724,Jacana jacana,Jacana jacana,5.77098944,0.76125028,0.05205,-1.28357927,Shore,5
+166,Aves,Aves,Charadriiformes,Wattled Jacana,3488.378906,3.542623652,Jacana jacana,Jacana jacana,5.77098944,0.76125028,0.05205,-1.28357927,Shore,5
+167,Aves,Aves,Charadriiformes,Wattled Jacana,3100.78125,3.491471129,Jacana jacana,Jacana jacana,4.85280433,0.68599278,0.05205,-1.28357927,Shore,5
+168,Aves,Aves,Charadriiformes,Whimbrel,2002.587891,3.301591586,Numenius phaeopus,Numenius phaeopus,12.8066274,1.10743478,0.434,-0.36251027,Shore,11
+169,Aves,Aves,Charadriiformes,Whimbrel,1593.457031,3.202340357,Numenius phaeopus,Numenius phaeopus,12.3703867,1.09238328,0.434,-0.36251027,Shore,11
+170,Aves,Aves,Charadriiformes,Whimbrel,2304.052734,3.362492415,Numenius phaeopus,Numenius phaeopus,8.7471843,0.94186828,0.434,-0.36251027,Shore,11
+171,Aves,Aves,Charadriiformes,Whimbrel,2648.583984,3.423013749,Numenius phaeopus,Numenius phaeopus,11.1488167,1.04722878,0.434,-0.36251027,Shore,11
+172,Aves,Aves,Charadriiformes,Whimbrel,2497.851563,3.397566626,Numenius phaeopus,Numenius phaeopus,9.375,0.97197128,0.434,-0.36251027,Shore,11
+173,Aves,Aves,Mesitornithiformes,White Brested Mesite,2863.916016,3.456960278,Mesitornis variegatus,Mesitornis unicolor ,0.85786271,-0.06658221,0.107,-0.97061622,Closed,4
+174,Aves,Aves,Mesitornithiformes,White Brested Mesite,3251.513672,3.512085584,Mesitornis variegatus,Mesitornis unicolor ,0.95185828,-0.02142771,0.107,-0.97061622,Closed,4
+175,Aves,Aves,Mesitornithiformes,White Brested Mesite,3229.980469,3.509199896,Mesitornis variegatus,Mesitornis unicolor ,0.91943449,-0.03647921,0.107,-0.97061622,Closed,4
+176,Aves,Aves,Mesitornithiformes,White Brested Mesite,2906.982422,3.463442406,Mesitornis variegatus,Mesitornis unicolor ,1.05615289,0.02372679,0.107,-0.97061622,Closed,4
+177,Aves,Aves,Mesitornithiformes,White Brested Mesite,2928.515625,3.466647546,Mesitornis variegatus,Mesitornis unicolor ,1.09339804,0.03877829,0.107,-0.97061622,Closed,4
+178,Aves,Aves,Anseriformes,Whooper Swan,839.7949219,2.924173244,Cygnus cygnus,Cygnus olor,3.80743311,0.58063228,09.févr,0.96378783,Shore,6
+179,Aves,Aves,Anseriformes,Whooper Swan,796.7285156,2.901310361,Cygnus cygnus,Cygnus olor,1.90371655,0.27960229,09.févr,0.96378783,Shore,6
+180,Aves,Aves,Anseriformes,Whooper Swan,667.5292969,2.824470331,Cygnus cygnus,Cygnus olor,3.94170195,0.59568378,09.févr,0.96378783,Shore,6
+181,Aves,Aves,Anseriformes,Whooper Swan,602.9296875,2.780266669,Cygnus cygnus,Cygnus olor,5.2011069,0.71609578,09.févr,0.96378783,Shore,6
+182,Aves,Aves,Anseriformes,Whooper Swan,782.54862,2.89351133,Cygnus cygnus,Cygnus olor,2.11230577,0.32475679,09.févr,0.96378783,Shore,6
+183,Aves,Aves,Anseriformes,Whooper Swan,,,Cygnus cygnus,Cygnus olor,3.80743311,0.58063228,09.févr,0.96378783,Shore,6
+184,Aves,Aves,Anseriformes,Whooper Swan,,,Cygnus cygnus,Cygnus olor,4.08070577,0.61073528,09.févr,0.96378783,Shore,6
+185,Aves,Aves,Anseriformes,Whooper Swan,,,Cygnus cygnus,Cygnus olor,3.94170195,0.59568378,09.févr,0.96378783,Shore,6
+186,Aves,Aves,Anseriformes,Whooper Swan,,,Cygnus cygnus,Cygnus olor,5.2011069,0.71609578,09.févr,0.96378783,Shore,6
+187,Aves,Aves,Anseriformes,Whooper Swan,,,Cygnus cygnus,Cygnus olor,2.11230577,0.32475679,09.févr,0.96378783,Shore,6
+188,Mammalia,Mammalia,Carnivora,Australian Sea Lion,452.1972656,2.655327932,Neophoca cinerea,Neophoca cinerea,6.8629017,0.83650778,180.5,2.256477206,Shore,6
+189,Mammalia,Mammalia,Carnivora,Australian Sea Lion,624.4628906,2.795506635,Neophoca cinerea,Neophoca cinerea,3.94170195,0.59568378,180.5,2.25647721,Shore,6
+190,Mammalia,Mammalia,Carnivora,Australian Sea Lion,925.9277344,2.966577093,Neophoca cinerea,Neophoca cinerea,6.62912607,0.82145628,180.5,2.25647721,Shore,6
+191,Mammalia,Mammalia,Carnivora,Australian Sea Lion,710.5957031,2.851622577,Neophoca cinerea,Neophoca cinerea,avr.75,0.67094128,180.5,2.25647721,Shore,6
+192,Mammalia,Mammalia,Carnivora,Australian Sea Lion,538.3300781,2.731048646,Neophoca cinerea,Neophoca cinerea,5.2011069,0.71609578,180.5,2.25647721,Shore,6
+193,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.85280433,0.68599278,180.5,2.25647721,Shore,6
+194,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+195,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+196,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+197,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+198,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.02393811,0.70104428,180.5,2.25647721,Shore,6
+199,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+200,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+201,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,8.7471843,0.94186828,180.5,2.25647721,Shore,6
+202,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.4033137,0.80640478,180.5,2.25647721,Shore,6
+203,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.4033137,0.80640478,180.5,2.25647721,Shore,6
+204,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+205,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.18519333,0.79135328,180.5,2.25647721,Shore,6
+206,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.97450294,0.77630178,180.5,2.25647721,Shore,6
+207,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.4033137,0.80640478,180.5,2.25647721,Shore,6
+208,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.97450294,0.77630178,180.5,2.25647721,Shore,6
+209,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.22461154,0.62578678,180.5,2.25647721,Shore,6
+210,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,avr.75,0.67094128,180.5,2.25647721,Shore,6
+211,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.52782654,0.65588978,180.5,2.25647721,Shore,6
+212,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.22461154,0.62578678,180.5,2.25647721,Shore,6
+213,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.22461154,0.62578678,180.5,2.25647721,Shore,6
+214,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,4.22461154,0.62578678,180.5,2.25647721,Shore,6
+215,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.57440835,0.74619878,180.5,2.25647721,Shore,6
+216,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.02393811,0.70104428,180.5,2.25647721,Shore,6
+217,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.38452354,0.73114728,180.5,2.25647721,Shore,6
+218,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.02393811,0.70104428,180.5,2.25647721,Shore,6
+219,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.2011069,0.71609578,180.5,2.25647721,Shore,6
+220,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.77098944,0.76125028,180.5,2.25647721,Shore,6
+221,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.38452354,0.73114728,180.5,2.25647721,Shore,6
+222,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.38452354,0.73114728,180.5,2.25647721,Shore,6
+223,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.38452354,0.73114728,180.5,2.25647721,Shore,6
+224,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,5.97450294,0.77630178,180.5,2.25647721,Shore,6
+225,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.18519333,0.79135328,180.5,2.25647721,Shore,6
+226,Mammalia,Mammalia,Carnivora,Australian Sea Lion,,,Neophoca cinerea,Neophoca cinerea,6.18519333,0.79135328,180.5,2.25647721,Shore,6
+227,Mammalia,Mammalia,Primates,Bonobo,2024.121094,3.306236491,Pan paniscus,Pan paniscus,0.98542549,-0.00637621,34.5,1.5378191,Closed,16
+228,Mammalia,Mammalia,Primates,Bonobo,2583.984375,3.412289883,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+229,Mammalia,Mammalia,Primates,Bonobo,2131.787109,3.328743832,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+230,Mammalia,Mammalia,Primates,Bonobo,2260.986328,3.354297936,Pan paniscus,Pan paniscus,3.94170195,0.59568378,34.5,1.5378191,Closed,16
+231,Mammalia,Mammalia,Primates,Bonobo,2885.449219,3.460213436,Pan paniscus,Pan paniscus,3.80743311,0.58063228,34.5,1.5378191,Closed,16
+232,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.34375,0.36991129,34.5,1.5378191,Closed,16
+233,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.04035288,0.30970529,34.5,1.5378191,Closed,16
+234,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+235,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+236,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,4.37359215,0.64083828,34.5,1.5378191,Closed,16
+237,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.09339804,0.03877829,34.5,1.5378191,Closed,16
+238,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.05615289,0.02372679,34.5,1.5378191,Closed,16
+239,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.97085097,0.29465379,34.5,1.5378191,Closed,16
+240,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.13195664,0.05382979,34.5,1.5378191,Closed,16
+241,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.25598453,0.09898429,34.5,1.5378191,Closed,16
+242,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.83886898,0.26455079,34.5,1.5378191,Closed,16
+243,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,0.88811518,-0.05153071,34.5,1.5378191,Closed,16
+244,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.25598453,0.09898429,34.5,1.5378191,Closed,16
+245,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+246,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,4.22461154,0.62578678,34.5,1.5378191,Closed,16
+247,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+248,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.04035288,0.30970529,34.5,1.5378191,Closed,16
+249,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+250,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.77098944,0.76125028,34.5,1.5378191,Closed,16
+251,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+252,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.09339804,0.03877829,34.5,1.5378191,Closed,16
+253,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+254,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.77098944,0.76125028,34.5,1.5378191,Closed,16
+255,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.97450294,0.77630178,34.5,1.5378191,Closed,16
+256,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.77098944,0.76125028,34.5,1.5378191,Closed,16
+257,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.38452354,0.73114728,34.5,1.5378191,Closed,16
+258,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,4.08070577,0.61073528,34.5,1.5378191,Closed,16
+259,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.2011069,0.71609578,34.5,1.5378191,Closed,16
+260,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.02393811,0.70104428,34.5,1.5378191,Closed,16
+261,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.97450294,0.77630178,34.5,1.5378191,Closed,16
+262,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,5.38452354,0.73114728,34.5,1.5378191,Closed,16
+263,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+264,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.34375,0.36991129,34.5,1.5378191,Closed,16
+265,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.26391327,0.35485979,34.5,1.5378191,Closed,16
+266,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.49362574,0.17424179,34.5,1.5378191,Closed,16
+267,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+268,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.51196905,0.40001429,34.5,1.5378191,Closed,16
+269,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+270,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+271,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+272,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+273,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+274,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.04035288,0.30970529,34.5,1.5378191,Closed,16
+275,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+276,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+277,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.26391327,0.35485979,34.5,1.5378191,Closed,16
+278,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.49362574,0.17424179,34.5,1.5378191,Closed,16
+279,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+280,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+281,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+282,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+283,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.51196905,0.40001429,34.5,1.5378191,Closed,16
+284,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+285,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+286,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.90371655,0.27960229,34.5,1.5378191,Closed,16
+287,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+288,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+289,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+290,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.51196905,0.40001429,34.5,1.5378191,Closed,16
+291,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+292,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+293,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+294,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+295,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.51196905,0.40001429,34.5,1.5378191,Closed,16
+296,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+297,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+298,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.18679607,0.33980829,34.5,1.5378191,Closed,16
+299,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+300,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+301,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.80743311,0.58063228,34.5,1.5378191,Closed,16
+302,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+303,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+304,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+305,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+306,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+307,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.34375,0.36991129,34.5,1.5378191,Closed,16
+308,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.80743311,0.58063228,34.5,1.5378191,Closed,16
+309,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+310,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.42640217,0.38496279,34.5,1.5378191,Closed,16
+311,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.69226177,0.43011728,34.5,1.5378191,Closed,16
+312,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,1.44274736,0.15919029,34.5,1.5378191,Closed,16
+313,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+314,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+315,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+316,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+317,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+318,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+319,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+320,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.78720418,0.44516878,34.5,1.5378191,Closed,16
+321,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+322,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+323,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+324,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+325,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+326,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+327,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+328,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+329,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+330,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+331,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+332,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+333,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+334,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+335,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.67773796,0.56558078,34.5,1.5378191,Closed,16
+336,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+337,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.98725147,0.47527178,34.5,1.5378191,Closed,16
+338,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+339,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+340,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+341,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+342,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+343,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+344,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+345,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+346,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.43145085,0.53547778,34.5,1.5378191,Closed,16
+347,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.20165685,0.50537478,34.5,1.5378191,Closed,16
+348,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+349,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+350,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.31456304,0.52042628,34.5,1.5378191,Closed,16
+351,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+352,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.09259667,0.49032328,34.5,1.5378191,Closed,16
+353,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+354,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+355,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,3.5524607,0.55052928,34.5,1.5378191,Closed,16
+356,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.60055345,0.41506578,34.5,1.5378191,Closed,16
+357,Mammalia,Mammalia,Primates,Bonobo,,,Pan paniscus,Pan paniscus,2.88549472,0.46022028,34.5,1.5378191,Closed,16
+358,Mammalia,Mammalia,Primates,Chimpanzee,1205.859375,3.081296664,Pan troglodytes,Pan troglodytes,1.171875,0.06888129,45,1.65321251,Semi-Closed,25
+359,Mammalia,Mammalia,Primates,Chimpanzee,1851.855469,3.267607088,Pan troglodytes,Pan troglodytes,3.09259667,0.49032328,45,1.65321251,Semi-Closed,25
+360,Mammalia,Mammalia,Primates,Chimpanzee,1485.791016,3.171957728,Pan troglodytes,Pan troglodytes,2.98725147,0.47527178,45,1.65321251,Semi-Closed,25
+361,Mammalia,Mammalia,Primates,Chimpanzee,1033.59375,3.014349875,Pan troglodytes,Pan troglodytes,1.90371655,0.27960229,45,1.65321251,Semi-Closed,25
+362,Mammalia,Mammalia,Primates,Chimpanzee,1679.589844,3.22520324,Pan troglodytes,Pan troglodytes,2.34375,0.36991129,45,1.65321251,Semi-Closed,25
+363,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.34375,0.36991129,45,1.65321251,Semi-Closed,25
+364,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.26391327,0.35485979,45,1.65321251,Semi-Closed,25
+365,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.97085097,0.29465379,45,1.65321251,Semi-Closed,25
+366,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.98725147,0.47527178,45,1.65321251,Semi-Closed,25
+367,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.78720418,0.44516878,45,1.65321251,Semi-Closed,25
+368,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,3.09259667,0.49032328,45,1.65321251,Semi-Closed,25
+369,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.44274736,0.15919029,45,1.65321251,Semi-Closed,25
+370,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.98725147,0.47527178,45,1.65321251,Semi-Closed,25
+371,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.30027673,0.11403579,45,1.65321251,Semi-Closed,25
+372,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.05615289,0.02372679,45,1.65321251,Semi-Closed,25
+373,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.65728152,0.21939629,45,1.65321251,Semi-Closed,25
+374,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,1.54629833,0.18929329,45,1.65321251,Semi-Closed,25
+375,Mammalia,Mammalia,Primates,Chimpanzee,,,Pan troglodytes,Pan troglodytes,2.34375,0.36991129,45,1.65321251,Semi-Closed,25
+376,Mammalia,Mammalia,Eulipotyphla,Common Shrew,10422.07031,4.017953999,Sorex araneus,Sorex araneus,10.0478762,1.00207428,0.00975,-2.01099538,Semi-Closed,5
+377,Mammalia,Mammalia,Eulipotyphla,Common Shrew,8268.75,3.917439862,Sorex araneus,Sorex araneus,10.0478762,1.00207428,0.00975,-2.01099538,Semi-Closed,5
+378,Mammalia,Mammalia,Eulipotyphla,Common Shrew,10508.20313,4.021528459,Sorex araneus,Sorex araneus,10.0478762,1.00207428,0.00975,-2.01099538,Semi-Closed,5
+379,Mammalia,Mammalia,Eulipotyphla,Common Shrew,10077.53906,4.00335449,Sorex araneus,Sorex araneus,9.70560866,0.98702278,0.00975,-2.01099538,Semi-Closed,5
+380,Mammalia,Mammalia,Eulipotyphla,Common Shrew,9388.476563,3.972595126,Sorex araneus,Sorex araneus,9.375,0.97197128,0.00975,-2.01099538,Semi-Closed,5
+381,Mammalia,Mammalia,Scadentia,Common Threesrew,2777.783203,3.443698347,Tupaia glis,Tupaiabelangeri,3.94170195,0.59568378,0.14,-0.85387196,Closed,10
+382,Mammalia,Mammalia,Scadentia,Common Threesrew,2433.251953,3.386187081,Tupaia glis,Tupaiabelangeri,3.5524607,0.55052928,0.14,-0.85387196,Closed,10
+383,Mammalia,Mammalia,Scadentia,Common Threesrew,2454.785156,3.390013488,Tupaia glis,Tupaiabelangeri,3.5524607,0.55052928,0.14,-0.85387196,Closed,10
+384,Mammalia,Mammalia,Carnivora,Dog,409.1308594,2.611862238,Canis lupus familiaris,Canis lupus familiaris,1.44274736,0.15919029,20,1.30103,Open,8
+385,Mammalia,Mammalia,Carnivora,Dog,452.1972656,2.655327932,Canis lupus familiaris,Canis lupus familiaris,1.39360209,0.14413879,20,1.30103,Open,8
+386,Mammalia,Mammalia,Carnivora,Dog,495.2636719,2.694836473,Canis lupus familiaris,Canis lupus familiaris,1.34613089,0.12908729,20,1.30103,Open,8
+387,Mammalia,Mammalia,Carnivora,Dog,559.8632813,2.748081985,Canis lupus familiaris,Canis lupus familiaris,1.49362574,0.17424179,20,1.30103,Open,8
+388,Mammalia,Mammalia,Carnivora,Dog,818.2617188,2.912892234,Canis lupus familiaris,Canis lupus familiaris,1.60082843,0.20434479,20,1.30103,Open,8
+389,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,1.65728152,0.21939629,20,1.30103,Open,8
+390,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,0.29296875,-0.5331787,20,1.30103,Open,8
+391,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,0.82864076,-0.08163371,20,1.30103,Open,8
+392,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,0.37340643,-0.4278182,20,1.30103,Open,8
+393,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,1.49362574,0.17424179,20,1.30103,Open,8
+394,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,2.78720418,0.44516878,20,1.30103,Open,8
+395,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,3.5524607,0.55052928,20,1.30103,Open,8
+396,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,2.42640217,0.38496279,20,1.30103,Open,8
+397,Mammalia,Mammalia,Carnivora,Dog,,,Canis lupus familiaris,Canis lupus familiaris,3.5524607,0.55052928,20,1.30103,Open,8
+398,Mammalia,Mammalia,Perissodactyla,Domestic Horse,527.5634766,2.722274722,Equus ferus caballus,Equus caballus,1.65728152,0.21939629,250,2.39794001,Open,10
+399,Mammalia,Mammalia,Perissodactyla,Domestic Horse,516.796875,2.713319879,Equus ferus caballus,Equus caballus,1.05615289,0.02372679,250,2.39794001,Open,10
+400,Mammalia,Mammalia,Perissodactyla,Domestic Horse,1561.157227,3.193446644,Equus ferus caballus,Equus caballus,0.29063312,-0.5366549,250,2.39794001,Open,10
+401,Mammalia,Mammalia,Perissodactyla,Domestic Horse,2444.018555,3.388104499,Equus ferus caballus,Equus caballus,1.49362574,0.17424179,250,2.39794001,Open,10
+402,Mammalia,Mammalia,Perissodactyla,Domestic Horse,2110.253906,3.324334713,Equus ferus caballus,Equus caballus,7.88340389,0.89671378,250,2.39794001,Open,10
+403,Mammalia,Mammalia,Artiodactyla,Domestic Pig,495.2636719,2.694836473,Sus scrofa domesticus,Sus scrofa domesticus,1.21320108,0.08393279,220,2.34242268,Open,4
+404,Mammalia,Mammalia,Artiodactyla,Domestic Pig,473.7304688,2.675531318,Sus scrofa domesticus,Sus scrofa domesticus,2.98725147,0.47527178,220,2.34242268,Open,4
+405,Mammalia,Mammalia,Artiodactyla,Domestic Pig,430.6640625,2.634138633,Sus scrofa domesticus,Sus scrofa domesticus,2.69226177,0.43011728,220,2.34242268,Open,4
+406,Mammalia,Mammalia,Artiodactyla,Domestic Pig,645.9960938,2.810229892,Sus scrofa domesticus,Sus scrofa domesticus,1.44274736,0.15919029,220,2.34242268,Open,4
+407,Mammalia,Mammalia,Artiodactyla,Domestic Pig,301.4648438,2.479236673,Sus scrofa domesticus,Sus scrofa domesticus,2.04035288,0.30970529,220,2.34242268,Open,4
+408,Mammalia,Mammalia,Artiodactyla,European Roe,1055.126953,3.023304717,Capreolus capreolus,Cervus elaphus,1.97085097,0.29465379,22.mai,1.35218252,Semi-Closed,4
+409,Mammalia,Mammalia,Artiodactyla,European Roe,2304.052734,3.362492415,Capreolus capreolus,Cervus elaphus,2.34375,0.36991129,22.mai,1.35218252,Semi-Closed,4
+410,Mammalia,Mammalia,Artiodactyla,European Roe,1291.992188,3.111259888,Capreolus capreolus,Cervus elaphus,2.51196905,0.40001429,22.mai,1.35218252,Semi-Closed,4
+411,Mammalia,Mammalia,Artiodactyla,European Roe,1421.191406,3.152652573,Capreolus capreolus,Cervus elaphus,3.09259667,0.49032328,22.mai,1.35218252,Semi-Closed,4
+412,Mammalia,Mammalia,Artiodactyla,European Roe,1205.859375,3.081296664,Capreolus capreolus,Cervus elaphus,1.97085097,0.29465379,22.mai,1.35218252,Semi-Closed,4
+413,Mammalia,Mammalia,Rodentia,Guinea Pig,2304.052734,3.362492415,Cavia porcellus,Cavia porcellus,1.90371655,0.27960229,0.645,-0.19044029,Open,11
+414,Mammalia,Mammalia,Rodentia,Guinea Pig,1851.855469,3.267607088,Cavia porcellus,Cavia porcellus,2.51196905,0.40001429,0.645,-0.19044029,Open,11
+415,Mammalia,Mammalia,Rodentia,Guinea Pig,3014.648438,3.479236673,Cavia porcellus,Cavia porcellus,3.09259667,0.49032328,0.645,-0.19044029,Open,11
+416,Mammalia,Mammalia,Rodentia,Guinea Pig,2174.853516,3.337430011,Cavia porcellus,Cavia porcellus,2.04035288,0.30970529,0.645,-0.19044029,Open,11
+417,Mammalia,Mammalia,Rodentia,Guinea Pig,2583.984375,3.412289883,Cavia porcellus,Cavia porcellus,2.69226177,0.43011728,0.645,-0.19044029,Open,11
+418,Mammalia,Mammalia,Rodentia,Guinea Pig,,,Cavia porcellus,Cavia porcellus,2.98725147,0.47527178,0.645,-0.19044029,Open,11
+419,Mammalia,Mammalia,Rodentia,Guinea Pig,,,Cavia porcellus,Cavia porcellus,2.88549472,0.46022028,0.645,-0.19044029,Open,11
+420,Mammalia,Mammalia,Rodentia,Guinea Pig,,,Cavia porcellus,Cavia porcellus,2.98725147,0.47527178,0.645,-0.19044029,Open,11
+421,Mammalia,Mammalia,Rodentia,Guinea Pig,,,Cavia porcellus,Cavia porcellus,3.09259667,0.49032328,0.645,-0.19044029,Open,11
+422,Mammalia,Mammalia,Rodentia,Guinea Pig,,,Cavia porcellus,Cavia porcellus,3.20165685,0.50537478,0.645,-0.19044029,Open,11
+423,Mammalia,Mammalia,Primates,Hamadryas Baboon,516.796875,2.713319879,Papio hamadryas,Papio hamadryas,2.26391327,0.35485979,15.juil,1.19589965,Semi-Closed,10
+424,Mammalia,Mammalia,Primates,Hamadryas Baboon,559.8632813,2.748081985,Papio hamadryas,Papio hamadryas,3.09259667,0.49032328,15.juil,1.19589965,Semi-Closed,10
+425,Mammalia,Mammalia,Primates,Hamadryas Baboon,387.5976563,2.588381142,Papio hamadryas,Papio hamadryas,3.80743311,0.58063228,15.juil,1.19589965,Semi-Closed,10
+426,Mammalia,Mammalia,Primates,Hamadryas Baboon,495.2636719,2.694836473,Papio hamadryas,Papio hamadryas,1.60082843,0.20434479,15.juil,1.19589965,Semi-Closed,10
+427,Mammalia,Mammalia,Primates,Hamadryas Baboon,452.1972656,2.655327932,Papio hamadryas,Papio hamadryas,2.51196905,0.40001429,15.juil,1.19589965,Semi-Closed,10
+428,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,3.09259667,0.49032328,15.juil,1.19589965,Semi-Closed,10
+429,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,3.09259667,0.49032328,15.juil,1.19589965,Semi-Closed,10
+430,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,3.67773796,0.56558078,15.juil,1.19589965,Semi-Closed,10
+431,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.69226177,0.43011728,15.juil,1.19589965,Semi-Closed,10
+432,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.51196905,0.40001429,15.juil,1.19589965,Semi-Closed,10
+433,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.60055345,0.41506578,15.juil,1.19589965,Semi-Closed,10
+434,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.98725147,0.47527178,15.juil,1.19589965,Semi-Closed,10
+435,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.51196905,0.40001429,15.juil,1.19589965,Semi-Closed,10
+436,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.98725147,0.47527178,15.juil,1.19589965,Semi-Closed,10
+437,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,3.5524607,0.55052928,15.juil,1.19589965,Semi-Closed,10
+438,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,3.5524607,0.55052928,15.juil,1.19589965,Semi-Closed,10
+439,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.171875,0.06888129,15.juil,1.19589965,Semi-Closed,10
+440,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.44274736,0.15919029,15.juil,1.19589965,Semi-Closed,10
+441,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.90371655,0.27960229,15.juil,1.19589965,Semi-Closed,10
+442,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.71572543,0.23444779,15.juil,1.19589965,Semi-Closed,10
+443,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.49362574,0.17424179,15.juil,1.19589965,Semi-Closed,10
+444,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.83886898,0.26455079,15.juil,1.19589965,Semi-Closed,10
+445,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.18679607,0.33980829,15.juil,1.19589965,Semi-Closed,10
+446,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.90371655,0.27960229,15.juil,1.19589965,Semi-Closed,10
+447,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.04035288,0.30970529,15.juil,1.19589965,Semi-Closed,10
+448,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.42640217,0.38496279,15.juil,1.19589965,Semi-Closed,10
+449,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.54629833,0.18929329,15.juil,1.19589965,Semi-Closed,10
+450,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.54629833,0.18929329,15.juil,1.19589965,Semi-Closed,10
+451,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.11230577,0.32475679,15.juil,1.19589965,Semi-Closed,10
+452,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.95227766,0.29054158,15.juil,1.19589965,Semi-Closed,10
+453,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.5578635,0.1925294,15.juil,1.19589965,Semi-Closed,10
+454,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.31866825,0.36523862,15.juil,1.19589965,Semi-Closed,10
+455,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.68161435,0.22572641,15.juil,1.19589965,Semi-Closed,10
+456,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.5862069,0.41266327,15.juil,1.19589965,Semi-Closed,10
+457,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,1.68329177,0.2261594,15.juil,1.19589965,Semi-Closed,10
+458,Mammalia,Mammalia,Primates,Hamadryas Baboon,,,Papio hamadryas,Papio hamadryas,2.08333333,0.31875876,15.juil,1.19589965,Semi-Closed,10
+459,Mammalia,Mammalia,Rodentia,House Mouse,3445.3125,3.53722862,Mus musculus,Mus musculus,5.38452354,0.73114728,0.0255,-1.59345982,Open,11
+460,Mammalia,Mammalia,Rodentia,House Mouse,2863.916016,3.456960278,Mus musculus,Mus musculus,7.35547592,0.86661078,0.0255,-1.59345982,Open,11
+461,Mammalia,Mammalia,Rodentia,House Mouse,2928.515625,3.466647546,Mus musculus,Mus musculus,avr.75,0.67094128,0.0255,-1.59345982,Open,11
+462,Mammalia,Mammalia,Rodentia,House Mouse,3423.779297,3.534505762,Mus musculus,Mus musculus,3.94170195,0.59568378,0.0255,-1.59345982,Open,11
+463,Mammalia,Mammalia,Rodentia,House Mouse,2950.048828,3.469829204,Mus musculus,Mus musculus,avr.75,0.67094128,0.0255,-1.59345982,Open,11
+464,Mammalia,Mammalia,Artiodactyla,Humpback Whale,258.3984375,2.412289883,Megaptera novaeangliae,Megaptera novaeangliae,1.21320108,0.08393279,27500,4.43933269,Water,17
+465,Mammalia,Mammalia,Artiodactyla,Humpback Whale,129.1992188,2.111259888,Megaptera novaeangliae,Megaptera novaeangliae,2.88549472,0.46022028,27500,4.43933269,Water,17
+466,Mammalia,Mammalia,Artiodactyla,Humpback Whale,150.7324219,2.178206677,Megaptera novaeangliae,Megaptera novaeangliae,2.98725147,0.47527178,27500,4.43933269,Water,17
+467,Mammalia,Mammalia,Artiodactyla,Humpback Whale,236.8652344,2.374501322,Megaptera novaeangliae,Megaptera novaeangliae,1.05615289,0.02372679,27500,4.43933269,Water,17
+468,Mammalia,Mammalia,Artiodactyla,Humpback Whale,,,Megaptera novaeangliae,Megaptera novaeangliae,0.98542549,-0.00637621,27500,4.43933269,Water,17
+469,Mammalia,Mammalia,Artiodactyla,Hyppopotamus,75.36621094,1.877176682,Hippopotamus amphibius,Hippopotamus amphibius,2.60055345,0.41506578,1550,3.1903317,Wetland,10
+470,Mammalia,Mammalia,Artiodactyla,Hyppopotamus,64.59960938,1.810229892,Hippopotamus amphibius,Hippopotamus amphibius,2.88549472,0.46022028,1550,3.1903317,Wetland,10
+471,Mammalia,Mammalia,Artiodactyla,Hyppopotamus,75.36621094,1.877176682,Hippopotamus amphibius,Hippopotamus amphibius,0.91943449,-0.03647921,1550,3.1903317,Wetland,10
+472,Mammalia,Mammalia,Carnivora,Lion,150.7324219,2.178206677,Panthera leo,Panthera leo,1.02017644,0.00867529,188.5,2.27531136,Semi-Closed,10
+473,Mammalia,Mammalia,Carnivora,Lion,172.265625,2.236198624,Panthera leo,Panthera leo,1.49362574,0.17424179,188.5,2.27531136,Semi-Closed,10
+474,Mammalia,Mammalia,Carnivora,Lion,161.4990234,2.2081699,Panthera leo,Panthera leo,1.90371655,0.27960229,188.5,2.27531136,Semi-Closed,10
+475,Mammalia,Mammalia,Carnivora,Lion,118.4326172,2.073471327,Panthera leo,Panthera leo,1.44274736,0.15919029,188.5,2.27531136,Semi-Closed,10
+476,Mammalia,Mammalia,Carnivora,Lion,139.9658203,2.146021994,Panthera leo,Panthera leo,1.25598453,0.09898429,188.5,2.27531136,Semi-Closed,10
+477,Mammalia,Mammalia,Carnivora,Lycaon,990.5273438,2.995866469,Lycaon pictus,Lycaon pictus,2.18679607,0.33980829,26.25,1.41912931,Semi-Closed,10
+478,Mammalia,Mammalia,Carnivora,Lycaon,1765.722656,3.246922489,Lycaon pictus,Lycaon pictus,2.04035288,0.30970529,26.25,1.41912931,Semi-Closed,10
+479,Mammalia,Mammalia,Carnivora,Lycaon,1119.726563,3.049111981,Lycaon pictus,Lycaon pictus,6.4033137,0.80640478,26.25,1.41912931,Semi-Closed,10
+480,Mammalia,Mammalia,Carnivora,Lycaon,1124.745268,3.051054175,Lycaon pictus,Lycaon pictus,3.31456304,0.52042628,26.25,1.41912931,Semi-Closed,10
+481,Mammalia,Mammalia,Carnivora,Lycaon,1937.988281,3.287351147,Lycaon pictus,Lycaon pictus,2.04035288,0.30970529,26.25,1.41912931,Semi-Closed,10
+482,Mammalia,Mammalia,Carnivora,Lycaon,,,Lycaon pictus,Lycaon pictus,3.94170195,0.59568378,26.25,1.41912931,Semi-Closed,10
+483,Mammalia,Mammalia,Primates,Orang Outan,387.5976563,2.588381142,Pongo pygmaeus,Pongo pygmaeus,0.62799226,-0.20204571,60,1.77815125,Closed,28
+484,Mammalia,Mammalia,Primates,Orang Outan,387.5976563,2.588381142,Pongo pygmaeus,Pongo pygmaeus,0.91943449,-0.03647921,60,1.77815125,Closed,28
+485,Mammalia,Mammalia,Primates,Orang Outan,516.796875,2.713319879,Pongo pygmaeus,Pongo pygmaeus,1.21320108,0.08393279,60,1.77815125,Closed,28
+486,Mammalia,Mammalia,Primates,Orang Outan,624.4628906,2.795506635,Pongo pygmaeus,Pongo pygmaeus,0.85786271,-0.06658221,60,1.77815125,Closed,28
+487,Mammalia,Mammalia,Primates,Orang Outan,322.9980469,2.509199896,Pongo pygmaeus,Pongo pygmaeus,0.56597832,-0.24720021,60,1.77815125,Closed,28
+488,Mammalia,Mammalia,Lagomorpha,Pika,6750.65918,3.829346182,Ochotona dauurica,Ochotona dauurica,2.98725147,0.47527178,0.5015,-0.29972906,Open,7
+489,Mammalia,Mammalia,Lagomorpha,Pika,3068.481445,3.486923501,Ochotona dauurica,Ochotona dauurica,4.08070577,0.61073528,0.5015,-0.29972906,Open,7
+490,Mammalia,Mammalia,Lagomorpha,Pika,9431.542969,3.974582748,Ochotona dauurica,Ochotona dauurica,6.8629017,0.83650778,0.5015,-0.29972906,Open,7
+491,Mammalia,Mammalia,Lagomorpha,Pika,3714.477539,3.569897737,Ochotona dauurica,Ochotona dauurica,2.34375,0.36991129,0.5015,-0.29972906,Open,7
+492,Mammalia,Mammalia,Lagomorpha,Pika,6029.296875,3.780266669,Ochotona dauurica,Ochotona dauurica,2.34375,0.36991129,0.5015,-0.29972906,Open,7
+493,Mammalia,Mammalia,Primates,Rhesus Macaque,5297.167969,3.724043744,Macaca mulatta,Macaca mulatta,2.04035288,0.30970529,08.juin,0.93449845,Closed,10
+494,Mammalia,Mammalia,Primates,Rhesus Macaque,2971.582031,3.472987724,Macaca mulatta,Macaca mulatta,2.26391327,0.35485979,08.juin,0.93449845,Closed,10
+495,Mammalia,Mammalia,Primates,Rhesus Macaque,3251.513672,3.512085584,Macaca mulatta,Macaca mulatta,1.71572543,0.23444779,08.juin,0.93449845,Closed,10
+496,Mammalia,Mammalia,Primates,Rhesus Macaque,3768.310547,3.576146686,Macaca mulatta,Macaca mulatta,2.42640217,0.38496279,08.juin,0.93449845,Closed,10
+497,Mammalia,Mammalia,Primates,Rhesus Macaque,3488.378906,3.542623652,Macaca mulatta,Macaca mulatta,2.26391327,0.35485979,08.juin,0.93449845,Closed,10
+498,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,2.34375,0.36991129,08.juin,0.93449845,Closed,10
+499,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,1.90371655,0.27960229,08.juin,0.93449845,Closed,10
+500,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,1.90371655,0.27960229,08.juin,0.93449845,Closed,10
+501,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,2.34375,0.36991129,08.juin,0.93449845,Closed,10
+502,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,2.51196905,0.40001429,08.juin,0.93449845,Closed,10
+503,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,2.51196905,0.40001429,08.juin,0.93449845,Closed,10
+504,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,2.18679607,0.33980829,08.juin,0.93449845,Closed,10
+505,Mammalia,Mammalia,Primates,Rhesus Macaque,,,Macaca mulatta,Macaca mulatta,3.94170195,0.59568378,08.juin,0.93449845,Closed,10
+506,Mammalia,Mammalia,Hyracoidea,Rock Hyrax,2928.515625,3.466647546,Procavia capensis,Procavia capensis,5.57440835,0.74619878,03.juin,0.5563025,Open,21
+507,Mammalia,Mammalia,Hyracoidea,Rock Hyrax,2583.984375,3.412289883,Procavia capensis,Procavia capensis,5.02393811,0.70104428,03.juin,0.5563025,Open,21
+508,Mammalia,Mammalia,Hyracoidea,Rock Hyrax,2799.316406,3.447051989,Procavia capensis,Procavia capensis,4.22461154,0.62578678,03.juin,0.5563025,Open,21
+509,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,2928.515625,3.466647546,Marmota flaviventris,Marmota flaviventris,1.49362574,0.17424179,03.mai,0.54406804,Open,8
+510,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,3251.513672,3.512085584,Marmota flaviventris,Marmota flaviventris,7.35547592,0.86661078,03.mai,0.54406804,Open,8
+511,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,2734.716797,3.436912358,Marmota flaviventris,Marmota flaviventris,0.77314917,-0.11173671,03.mai,0.54406804,Open,8
+512,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,3165.380859,3.500425972,Marmota flaviventris,Marmota flaviventris,0.49271274,-0.30740621,03.mai,0.54406804,Open,8
+513,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,3660.644531,3.563557559,Marmota flaviventris,Marmota flaviventris,0.85786271,-0.06658221,03.mai,0.54406804,Open,8
+514,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.69680104,-0.15689121,03.mai,0.54406804,Open,8
+515,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.25598453,0.09898429,03.mai,0.54406804,Open,8
+516,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.60660054,-0.21709721,03.mai,0.54406804,Open,8
+517,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.97085097,0.29465379,03.mai,0.54406804,Open,8
+518,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.02017644,0.00867529,03.mai,0.54406804,Open,8
+519,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.82864076,-0.08163371,03.mai,0.54406804,Open,8
+520,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.67306544,-0.17194271,03.mai,0.54406804,Open,8
+521,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.45971725,-0.33750921,03.mai,0.54406804,Open,8
+522,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.171875,0.06888129,03.mai,0.54406804,Open,8
+523,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.05615289,0.02372679,03.mai,0.54406804,Open,8
+524,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,0.91943449,-0.03647921,03.mai,0.54406804,Open,8
+525,Mammalia,Mammalia,Rodentia,Yellow Bellied Marmot,,,Marmota flaviventris,Marmota flaviventris,1.34613089,0.12908729,03.mai,0.54406804,Open,8
