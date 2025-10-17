@@ -1,0 +1,41 @@
+---
+title: "phylogenetic_model_comparison"
+author: "chundra"
+date: "5/16/2024"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(loo)
+```
+
+In this notebook, we carry out model comparison for different models of rhythm evolution. We compare the following models:
+
+```{r}
+model.types <- c('BM_UV_nondist',
+                 'BM_UV_dist',
+                 'OU_UV_nondist',
+                 'OU_UV_dist')
+```
+
+```{r}
+loos <- readRDS('frequency_loos.RDS')
+loo_model_weights(loos)
+```
+
+We see that model 4 (a distributional OU model) is the best fit to the data, with > 90% of the stacking weight.
+
+We validate this result for models fitted only on mammals within the phylogeny:
+
+```{r}
+loos <- readRDS('frequency_loos_mammals.RDS')
+loo_model_weights(loos)
+```
+
+as well as birds:
+
+```{r}
+loos <- readRDS('frequency_loos_birds.RDS')
+loo_model_weights(loos)
+```
