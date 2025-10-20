@@ -301,6 +301,18 @@ for (i in 1:50) {
   
 }
 
+medians.internal <- apply(y.internal.all,2,median)
+
+medians.taxon <- aggregate(frequency ~ taxon, FUN=median, taxon.data)
+medians.taxon <- as.data.frame(medians.taxon)
+rownames(medians.taxon) <- medians.taxon$taxon
+
+medians.node <- c(
+  medians.taxon[mcc.tree$tip.label,]$frequency,2.9,
+  medians.internal
+)
+
+
 mcc.tree$tip.label <- taxon.key[mcc.tree$tip.label]
 
 saveRDS(list(mcc.tree,medians.node,medians.taxon,taxon.data,taxon.new), file='tree_ingredients.RDS')
