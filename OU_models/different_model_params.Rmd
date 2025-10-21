@@ -1,0 +1,308 @@
+---
+title: "Compare parameters across data sets"
+author: "chundra"
+date: "10/19/2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r,echo=F}
+require(ggplot2)
+require(HDInterval)
+require(loo)
+```
+
+# All species
+
+```{r,echo=F}
+params <- readRDS('all_species/OU_params.RDS')
+log.theta <- params[[1]]
+sigma <- params[[2]]
+alpha <- params[[3]]
+params.df <- data.frame(theta=exp(log.theta),sigma=sigma,alpha=alpha)
+```
+
+## theta
+
+The following histogram gives the posterior distribution of $\theta$. This parameter represents both frequency values reconstructed to the root of the phylogeny, as well as the optimal rhythm value to which the OU process reverts:
+
+```{r}
+ggplot(data=params.df,aes(x=theta)) + geom_histogram()
+```
+
+The median is as follows:
+
+```{r}
+median(exp(log.theta))
+```
+
+The lower and upper bounds of the 95% highest posterior density interval are as follows:
+
+```{r}
+hdi(exp(log.theta))
+```
+
+These values are more compatible with the delta frequency band (.5-4 Hz) than the theta frequency band (4-8 Hz), but it is clear that there is some overlap with theta.
+
+## sigma
+
+The following histogram gives the posterior distribution of $\sigma$, the variance of the drift process:
+
+```{r}
+ggplot(data=params.df,aes(x=sigma)) + geom_histogram()
+```
+
+The scale of drift has the following median
+
+```{r}
+median(sigma)
+```
+
+and HPD:
+
+```{r}
+hdi(sigma)
+```
+
+## alpha
+
+The following histogram gives the posterior distribution of $\alpha$, the strength of selection to the optimal value:
+
+```{r}
+ggplot(data=params.df,aes(x=alpha)) + geom_histogram()
+```
+
+An easier way to interpret this parameter is to transform it to the phylogenetic half-life (Grabowski et al. 2023), $\frac{\ln 2}{\alpha}$. This is interpreted as the average time for a trait to evolve halfway from an ancestral state toward a new optimum, indicating how long it will take before adaptation to a new regime is more influential than constraints from the ancestral state. 
+If half-life values are greater than the height of the phylogeny (1 in our case, as the tree length is scaled to unit height), the process increasingly resembles Brownian motion and involves a slower adaptation speed:
+
+```{r}
+ggplot(data=params.df,aes(x=log(2)/alpha)) + geom_histogram() + geom_vline(xintercept=1)
+```
+
+The following proportion of half-life values are greater than 1 (the height of the tree):
+
+```{r}
+length(which(log(2)/params.df$alpha > 1))/length(params.df$alpha)
+```
+
+# Birds and mammals
+
+```{r,echo=F}
+params <- readRDS('birds_and_mammals/OU_params.RDS')
+log.theta <- params[[1]]
+sigma <- params[[2]]
+alpha <- params[[3]]
+params.df <- data.frame(theta=exp(log.theta),sigma=sigma,alpha=alpha)
+```
+
+## theta
+
+The following histogram gives the posterior distribution of $\theta$. This parameter represents both frequency values reconstructed to the root of the phylogeny, as well as the optimal rhythm value to which the OU process reverts:
+
+```{r}
+ggplot(data=params.df,aes(x=theta)) + geom_histogram()
+```
+
+The median is as follows:
+
+```{r}
+median(exp(log.theta))
+```
+
+The lower and upper bounds of the 95% highest posterior density interval are as follows:
+
+```{r}
+hdi(exp(log.theta))
+```
+
+These values are more compatible with the delta frequency band (.5-4 Hz) than the theta frequency band (4-8 Hz), but it is clear that there is some overlap with theta.
+
+## sigma
+
+The following histogram gives the posterior distribution of $\sigma$, the variance of the drift process:
+
+```{r}
+ggplot(data=params.df,aes(x=sigma)) + geom_histogram()
+```
+
+The scale of drift has the following median
+
+```{r}
+median(sigma)
+```
+
+and HPD:
+
+```{r}
+hdi(sigma)
+```
+
+## alpha
+
+The following histogram gives the posterior distribution of $\alpha$, the strength of selection to the optimal value:
+
+```{r}
+ggplot(data=params.df,aes(x=alpha)) + geom_histogram()
+```
+
+An easier way to interpret this parameter is to transform it to the phylogenetic half-life (Grabowski et al. 2023), $\frac{\ln 2}{\alpha}$. This is interpreted as the average time for a trait to evolve halfway from an ancestral state toward a new optimum, indicating how long it will take before adaptation to a new regime is more influential than constraints from the ancestral state. 
+If half-life values are greater than the height of the phylogeny (1 in our case, as the tree length is scaled to unit height), the process increasingly resembles Brownian motion and involves a slower adaptation speed:
+
+```{r}
+ggplot(data=params.df,aes(x=log(2)/alpha)) + geom_histogram() + geom_vline(xintercept=1)
+```
+
+The following proportion of half-life values are greater than 1 (the height of the tree):
+
+```{r}
+length(which(log(2)/params.df$alpha > 1))/length(params.df$alpha)
+```
+
+# Birds
+
+```{r,echo=F}
+params <- readRDS('birds/OU_params.RDS')
+log.theta <- params[[1]]
+sigma <- params[[2]]
+alpha <- params[[3]]
+params.df <- data.frame(theta=exp(log.theta),sigma=sigma,alpha=alpha)
+```
+
+## theta
+
+The following histogram gives the posterior distribution of $\theta$. This parameter represents both frequency values reconstructed to the root of the phylogeny, as well as the optimal rhythm value to which the OU process reverts:
+
+```{r}
+ggplot(data=params.df,aes(x=theta)) + geom_histogram()
+```
+
+The median is as follows:
+
+```{r}
+median(exp(log.theta))
+```
+
+The lower and upper bounds of the 95% highest posterior density interval are as follows:
+
+```{r}
+hdi(exp(log.theta))
+```
+
+These values are more compatible with the delta frequency band (.5-4 Hz) than the theta frequency band (4-8 Hz), but it is clear that there is some overlap with theta.
+
+## sigma
+
+The following histogram gives the posterior distribution of $\sigma$, the variance of the drift process:
+
+```{r}
+ggplot(data=params.df,aes(x=sigma)) + geom_histogram()
+```
+
+The scale of drift has the following median
+
+```{r}
+median(sigma)
+```
+
+and HPD:
+
+```{r}
+hdi(sigma)
+```
+
+## alpha
+
+The following histogram gives the posterior distribution of $\alpha$, the strength of selection to the optimal value:
+
+```{r}
+ggplot(data=params.df,aes(x=alpha)) + geom_histogram()
+```
+
+An easier way to interpret this parameter is to transform it to the phylogenetic half-life (Grabowski et al. 2023), $\frac{\ln 2}{\alpha}$. This is interpreted as the average time for a trait to evolve halfway from an ancestral state toward a new optimum, indicating how long it will take before adaptation to a new regime is more influential than constraints from the ancestral state. 
+If half-life values are greater than the height of the phylogeny (1 in our case, as the tree length is scaled to unit height), the process increasingly resembles Brownian motion and involves a slower adaptation speed:
+
+```{r}
+ggplot(data=params.df,aes(x=log(2)/alpha)) + geom_histogram() + geom_vline(xintercept=1)
+```
+
+The following proportion of half-life values are greater than 1 (the height of the tree):
+
+```{r}
+length(which(log(2)/params.df$alpha > 1))/length(params.df$alpha)
+```
+
+# Mammals
+
+```{r,echo=F}
+params <- readRDS('mammals/OU_params.RDS')
+log.theta <- params[[1]]
+sigma <- params[[2]]
+alpha <- params[[3]]
+params.df <- data.frame(theta=exp(log.theta),sigma=sigma,alpha=alpha)
+```
+
+## theta
+
+The following histogram gives the posterior distribution of $\theta$. This parameter represents both frequency values reconstructed to the root of the phylogeny, as well as the optimal rhythm value to which the OU process reverts:
+
+```{r}
+ggplot(data=params.df,aes(x=theta)) + geom_histogram()
+```
+
+The median is as follows:
+
+```{r}
+median(exp(log.theta))
+```
+
+The lower and upper bounds of the 95% highest posterior density interval are as follows:
+
+```{r}
+hdi(exp(log.theta))
+```
+
+These values are more compatible with the delta frequency band (.5-4 Hz) than the theta frequency band (4-8 Hz), but it is clear that there is some overlap with theta.
+
+## sigma
+
+The following histogram gives the posterior distribution of $\sigma$, the variance of the drift process:
+
+```{r}
+ggplot(data=params.df,aes(x=sigma)) + geom_histogram()
+```
+
+The scale of drift has the following median
+
+```{r}
+median(sigma)
+```
+
+and HPD:
+
+```{r}
+hdi(sigma)
+```
+
+## alpha
+
+The following histogram gives the posterior distribution of $\alpha$, the strength of selection to the optimal value:
+
+```{r}
+ggplot(data=params.df,aes(x=alpha)) + geom_histogram()
+```
+
+An easier way to interpret this parameter is to transform it to the phylogenetic half-life (Grabowski et al. 2023), $\frac{\ln 2}{\alpha}$. This is interpreted as the average time for a trait to evolve halfway from an ancestral state toward a new optimum, indicating how long it will take before adaptation to a new regime is more influential than constraints from the ancestral state. 
+If half-life values are greater than the height of the phylogeny (1 in our case, as the tree length is scaled to unit height), the process increasingly resembles Brownian motion and involves a slower adaptation speed:
+
+```{r}
+ggplot(data=params.df,aes(x=log(2)/alpha)) + geom_histogram() + geom_vline(xintercept=1)
+```
+
+The following proportion of half-life values are greater than 1 (the height of the tree):
+
+```{r}
+length(which(log(2)/params.df$alpha > 1))/length(params.df$alpha)
+```
