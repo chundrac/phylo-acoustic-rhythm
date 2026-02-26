@@ -1,0 +1,64 @@
+---
+title: "Untitled"
+author: "chundra"
+date: "5/16/2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(loo)
+require(knitr)
+```
+
+The models under comparison have the following order:
+
+1. Predictors included, distributional
+2. Predictors included, non-distributional
+3. Predictors not included, distributional
+4. Predictors not included, non-distributional
+
+```{r}
+loo.objects <- readRDS('model.comparisons.RDS')
+
+dominant.compare <- loo.objects[[1]]
+dominant.stack <- loo.objects[[2]]
+rhythm.compare <- loo.objects[[3]]
+rhythm.stack <- loo.objects[[4]]
+```
+
+# Raw ELPD values
+
+## Dominant frequency
+
+```{r}
+kable(dominant.compare)
+```
+
+The distributional model with predictors included has the highest ELPD value, but it is not substantially higher than the null distributional model (e.g., more than 2 std. errors higher).
+
+## Rhythm
+
+```{r}
+kable(rhythm.compare)
+```
+
+The null distributional model has the highest ELPD value, but it is not substantially higher than the distributional model with predictors (e.g., more than 2 std. errors higher).
+
+# Stack
+
+## Dominant frequency
+
+In terms of stacking weight, we see that the distributional models with predictors has the majority of the stacking weight, but the null distributional model still has a substantial amount of stacking weight. 
+
+```{r}
+dominant.stack
+```
+
+## Rhythm
+
+In terms of stacking weight, we see that the null distributional model outperforms the distributional model with predictors but the full distributional model has a not insignificant portion of the stacking weight. 
+
+```{r}
+rhythm.stack
+```
