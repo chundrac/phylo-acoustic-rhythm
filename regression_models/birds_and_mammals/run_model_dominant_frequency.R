@@ -9,13 +9,13 @@ my.seed <- as.integer(commandArgs(trailingOnly = TRUE)[2])
 
 set.seed(my.seed)
 
-trees <- read.nexus('../BEAST/Coding_mtDNA_HKY_Yule_simple.trees')
+trees <- read.nexus('../../BEAST/Coding_mtDNA_HKY_Yule_simple.trees')
 
 n.tree = sample(length(trees),1)
 
 tree <- trees[[n.tree]]
 
-data.df <- read.csv('../Data_Rhythm_Final_English.csv',sep=';')
+data.df <- read.csv('../../Data_Rhythm_Final_English.csv',sep=';')
 
 mammal.orders<- c('Artiodactyla',
                   'Carnivora',
