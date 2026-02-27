@@ -5,6 +5,6 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=15GB
 
-module load mamba
+module load miniforge3
 source activate renv
 srun $@
