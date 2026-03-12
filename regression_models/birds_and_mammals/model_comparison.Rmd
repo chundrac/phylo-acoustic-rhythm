@@ -1,8 +1,7 @@
 ---
 title: "Untitled"
 author: "chundra"
-date: "5/16/2024"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -35,7 +34,7 @@ rhythm.stack <- loo.objects[[4]]
 kable(dominant.compare)
 ```
 
-The distributional model with predictors included has the highest ELPD value, but it is not substantially higher than the null distributional model (e.g., more than 2 std. errors higher).
+The distributional model without predictors included has the highest ELPD value, but it is not substantially higher than the full distributional model (e.g., more than 2 std. errors higher). This is the mirror image of the results for all taxa.
 
 ## Rhythm
 
@@ -49,7 +48,7 @@ The null distributional model has the highest ELPD value, but it is not substant
 
 ## Dominant frequency
 
-In terms of stacking weight, we see that the distributional models with predictors has the majority of the stacking weight, but the null distributional model still has a substantial amount of stacking weight. 
+In terms of stacking weight, we see that the distributional model without predictors has the majority of the stacking weight, but the full distributional model still has a substantial amount of stacking weight. 
 
 ```{r}
 dominant.stack
