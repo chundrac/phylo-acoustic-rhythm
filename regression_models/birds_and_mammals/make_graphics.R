@@ -1,5 +1,6 @@
 require(brms)
 require(bayesplot)
+require(ggplot2)
 
 set.seed(1)
 
@@ -32,12 +33,16 @@ for (i in 1:10) {
 #mcmc_intervals(x,prob_outer=.95,prob=.85)
 #dev.off()
 
-#saveRDS(list(x.dom,x.freq,x.dom2),file='model_params.RDS')
+saveRDS(list(x.dom,x.freq,x.dom2),file='model_params.RDS')
 
 param.list <- readRDS('model_params.RDS')
 x.dom = param.list[[1]]
 x.freq = param.list[[2]]
 x.dom2 = param.list[[3]]
+
+write.csv(x.dom,file = 'dominant_frequency_CIs.csv', quote = F, row.names = F)
+
+write.csv(x.freq,file = 'rhythm_CIs.csv', quote = F, row.names = F)
 
 x.dom <- x.dom[,1:(ncol(x.dom)/2)]
 
@@ -50,7 +55,7 @@ mcmc_intervals(x.dom,prob=.8,prob_outer=.9)+xlim(-5,10)+
   annotate('text',x=10,y=c(1:length(props.dom)),label=rev(label.dom),size=3,family='serif')
 dev.off()
 
-x.dom2 <- x.dom2[,1:(ncol(x.dom2)/2)]
+x.dom2 <- x.dom2[,1:(ncol(x.dom2)/4)]
 
 props.dom <- apply(x.dom2,2,function(x){length(which(x>0))/length(x)})
 
@@ -67,7 +72,7 @@ props.dom <- apply(x.freq,2,function(x){length(which(x>0))/length(x)})
 
 label.dom <- ifelse(props.dom > .5, paste(round(props.dom,2),'>','0'), paste(round(1-props.dom,2),'<','0'))
 
-pdf('post_CIs_frequency.pdf')
+pdf('post_CIs_rhythm.pdf')
 mcmc_intervals(x.freq,prob=.8,prob_outer=.9)+xlim(-5,10) + 
   annotate('text',x=10,y=c(1:length(props.dom)),label=rev(label.dom),size=3,family='serif')
 dev.off()

@@ -1,4 +1,4 @@
-for i in {1..10}
+for i in {1..50}
 do
     for modtype in pred.dist pred.nodist nopred.dist nopred.nodist
     do
